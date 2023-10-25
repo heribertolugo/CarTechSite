@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<un:pbmstore xmlns:un="http://usablenet.com/namespaces/508as_results">
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>674</un:offset1>
+    <un:offset2>785</un:offset2>
+    <un:linenum>16</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>963</un:offset1>
+    <un:offset2>1055</un:offset2>
+    <un:linenum>19</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>1154</un:offset1>
+    <un:offset2>1249</un:offset2>
+    <un:linenum>20</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>1352</un:offset1>
+    <un:offset2>1453</un:offset2>
+    <un:linenum>21</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>1553</un:offset1>
+    <un:offset2>1645</un:offset2>
+    <un:linenum>22</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>1682</un:offset1>
+    <un:offset2>1796</un:offset2>
+    <un:linenum>24</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2077</un:offset1>
+    <un:offset2>2149</un:offset2>
+    <un:linenum>28</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2170</un:offset1>
+    <un:offset2>2241</un:offset2>
+    <un:linenum>29</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2262</un:offset1>
+    <un:offset2>2333</un:offset2>
+    <un:linenum>30</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2354</un:offset1>
+    <un:offset2>2424</un:offset2>
+    <un:linenum>31</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2475</un:offset1>
+    <un:offset2>2577</un:offset2>
+    <un:linenum>34</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2610</un:offset1>
+    <un:offset2>2715</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2736</un:offset1>
+    <un:offset2>2835</un:offset2>
+    <un:linenum>36</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2898</un:offset1>
+    <un:offset2>3000</un:offset2>
+    <un:linenum>39</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>3021</un:offset1>
+    <un:offset2>3122</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>3143</un:offset1>
+    <un:offset2>3242</un:offset2>
+    <un:linenum>41</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>3305</un:offset1>
+    <un:offset2>3418</un:offset2>
+    <un:linenum>44</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>3439</un:offset1>
+    <un:offset2>3538</un:offset2>
+    <un:linenum>45</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>674</un:offset1>
+    <un:offset2>785</un:offset2>
+    <un:linenum>16</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>963</un:offset1>
+    <un:offset2>1055</un:offset2>
+    <un:linenum>19</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>1154</un:offset1>
+    <un:offset2>1249</un:offset2>
+    <un:linenum>20</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>1352</un:offset1>
+    <un:offset2>1453</un:offset2>
+    <un:linenum>21</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>1553</un:offset1>
+    <un:offset2>1645</un:offset2>
+    <un:linenum>22</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>1682</un:offset1>
+    <un:offset2>1796</un:offset2>
+    <un:linenum>24</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2077</un:offset1>
+    <un:offset2>2149</un:offset2>
+    <un:linenum>28</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2170</un:offset1>
+    <un:offset2>2241</un:offset2>
+    <un:linenum>29</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2262</un:offset1>
+    <un:offset2>2333</un:offset2>
+    <un:linenum>30</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2354</un:offset1>
+    <un:offset2>2424</un:offset2>
+    <un:linenum>31</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2475</un:offset1>
+    <un:offset2>2577</un:offset2>
+    <un:linenum>34</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2610</un:offset1>
+    <un:offset2>2715</un:offset2>
+    <un:linenum>35</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2736</un:offset1>
+    <un:offset2>2835</un:offset2>
+    <un:linenum>36</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>2898</un:offset1>
+    <un:offset2>3000</un:offset2>
+    <un:linenum>39</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>3021</un:offset1>
+    <un:offset2>3122</un:offset2>
+    <un:linenum>40</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>3143</un:offset1>
+    <un:offset2>3242</un:offset2>
+    <un:linenum>41</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>3305</un:offset1>
+    <un:offset2>3418</un:offset2>
+    <un:linenum>44</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>3439</un:offset1>
+    <un:offset2>3538</un:offset2>
+    <un:linenum>45</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>0</un:offset1>
+    <un:offset2>3642</un:offset2>
+    <un:linenum>1</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>0</un:offset1>
+    <un:offset2>3642</un:offset2>
+    <un:linenum>1</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>500</un:offset1>
+    <un:offset2>3626</un:offset2>
+    <un:linenum>14</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>1850</un:offset1>
+    <un:offset2>3574</un:offset2>
+    <un:linenum>25</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>SkipRepetitiveLinks</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>0</un:offset1>
+    <un:offset2>3633</un:offset2>
+    <un:linenum>1</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>0</un:offset1>
+    <un:offset2>3633</un:offset2>
+    <un:linenum>1</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///C|/WINDOWS/Profiles/Gateway User/Desktop/projects/Folder Settings/lambda/Copynav.xml</un:fileurl>
+    <un:offset1>0</un:offset1>
+    <un:offset2>3633</un:offset2>
+    <un:linenum>1</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+</un:pbmstore>

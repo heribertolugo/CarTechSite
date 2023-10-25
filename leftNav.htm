@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+.cont {  background-image: url(images/leftbg2.jpg); background-repeat: repeat-y; background-position: 0px 0px; position:absolute; left:0; top:0; height:100%}
+.contTable {  position: relative; visibility: visible; left: 0px; top: 0px; background-image: url(images/leftbg.jpg); background-repeat: no-repeat; background-position: 0px 0px; width: 183px}
+.nav {  height: 38px}
+.sub {  font-family: Georgia, "Times New Roman", Times, serif; font-size: 14px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #FFFFFF; text-decoration: none; background-image: url(images/subbg.jpg); background-repeat: repeat-y; background-position: 0px 0px; width: 150px; list-style-position: outside; list-style-type: decimal; margin-left: 0px}
+.hideSub { display:none }
+body {  background-color: #FFFFFF; background-image: url(images/leftbg2.jpg)}
+
+-->
+</style>
+<script src="js/nav.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<div class="cont">
+  <table border="0" cellspacing="0" cellpadding="0" class="contTable">
+  <tr>
+      <td height="38">&nbsp;</td>
+  </tr>
+  <tr>
+      <td height="38">
+		  <a href="javascript:goPage('home')" onMouseOver="overMe('home','g')" onMouseOut="outMe()">
+		  <img src="images/home.gif" width="148" height="28" border="0" name="home">
+		  </a>
+	  </td>
+  </tr>
+  <tr>
+      <td height="38">
+		  <a href="javascript:goPage('home')" onMouseOver="overMe('legend','g')" onMouseOut="outMe()">
+		  <img src="images/legend.gif" width="148" height="28" border="0" name="legend">
+		  </a>
+	  </td>
+  </tr>
+  <tr>
+      <td><div style="height:38" id="sessions1Nav">
+		  <a href="javascript:showSub('sessions1')" onMouseOver="overMe('sessions1','g')" onMouseOut="outMe()">
+		  <img src="images/sessions1.gif" width="148" height="28" border="0" name="sessions1">
+		  </a>
+		  <div class="hideSub" id="sessions1Sub">
+		  <ol>
+		  <li>The Auto</li>
+		  <li>Careers and ASE</li>
+		  <li>Basic Hand Tools</li>
+		  <li>Power Tools, Equip.</li>
+		  <li>The Shop & Safety</li>
+		  <li>Auto Mathematics</li>
+		  <li>Using Service Info</li>
+		  <li>Basic Electronics</li>
+		  <li>Fasteners, Gaskets</li>
+		  <li>Regular Maintenance</li>
+		  </ol>
+		  </div>
+		  </div>
+	  </td>
+  </tr>
+  <tr>
+      <td height="38"><div style="height:38" id="progressNav">
+		  <a href="javascript:showSub('progress')" onMouseOver="overMe('progress','g')" onMouseOut="outMe()">
+		  <img src="images/progress.gif" border="0" width="148" height="28" name="progress">
+		  </a>
+		  <div class="hideSub" id="progressSub">
+		  <ul>
+		  <li>Create Bookmark</li>
+		  <li>% Completed</li>
+		  <li>Quiz Stats</li>
+		  <li>Overall Grade</li>
+		  </ul>
+		  </div>
+		  </div>
+	  </td>
+  </tr>
+  <tr>
+      <td height="38"><div style="height:38" id="accountNav">
+		  <a href="javascript:showSub('account')" onMouseOver="overMe('account','g')" onMouseOut="outMe()">
+		  <img src="images/account.gif" border="0" width="148" height="28" name="account">
+		  </a>
+		  <div class="hideSub" id="accountSub">
+		  <ul>
+		  <li>Address & preferences</li>
+		  <li>Billing</li>
+		  <li>Close Account</li>
+		  </ul>
+		  </div>
+		  </div>
+	  </td>
+  </tr>
+  <tr>
+      <td height="38"><div style="height:38" id="faqNav">
+		  <a href="javascript:showSub('faq')" onMouseOver="overMe('faq','g')" onMouseOut="outMe()">
+		  <img src="images/faq.gif" border="0" width="148" height="28" name="faq">
+		  </a>
+		  <div class="hideSub" id="faqSub">
+		  <ul>
+		  <li>FAQ</li>
+		  <li>Support</li>
+		  </ul>
+		  </div>
+		  </div>
+	  </td>
+  </tr>
+  <tr>
+      <td height="38">
+		  <a href="javascript:goPage('home')" onMouseOver="overMe('logout','g')" onMouseOut="outMe()">
+		  <img src="images/logout.gif" border="0" width="148" height="28" name="logout">
+		  </a>
+	  </td>
+  </tr>
+</table>
+</div>
+</body>
+</html>
